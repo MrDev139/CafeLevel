@@ -1,0 +1,10 @@
+name: CafeLevel
+version: '${project.version}'
+main: me.mrdev.cl.CafeLevel
+api-version: 1.19
+authors: [MrDev]
+commands:
+  cafexp:
+    aliases: [cxp]
+    description: type "/cxp help" for more information
+softdepend: [PlaceholderAPI]

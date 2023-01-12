@@ -1,0 +1,11 @@
+#CafeLevel v1.0
+Prefix: "&b[CafeLevel]"
+#Mysql or Sqlite (not case sensitive)
+Database-details:
+  type: Mysql
+  host: localhost #path to the db file for sqlite
+  port: 3306
+  name: testing
+  user: mrdev
+  password: test
+#
